@@ -9,14 +9,14 @@ http://bit.ly/1tKHcnA
 
 ##### UPDATES
 
-**Version 1.1
+**Version 1.1**
 
 1.  Added new score screen with the highscore and the score of the last game
 2.  Bug fixes and improvements
 3.  **Interstitial** Admob Ads
 4.  Configuration file to change the Ads IDs, the position of the ads and the frequency
 
-Version 1.2 - 09/03/2014
+**Version 1.2 - 09/03/2014**
 
 1.  Bug fixes and improvements
 2.  Google Play Game Services - **Leaderboards**
