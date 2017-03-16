@@ -1,6 +1,9 @@
 # Mad Copter Game
 **DOWNLOAD THE GAME: http://bitly.com/1G5J4wQ (Now with LEADERBOARDS)**
-This game is an Obstacle avoidance game made in Java using Eclipse IDE. The aim of the player is to avoid the platforms and the hammers controlling the copetr just with the finger and get the highscore possible. You can customize all the things in this game, sounds, graphics, speed of the copter, add more hammers... [![](http://i.imgur.com/ODQy6ba.png "Hosted by imgur.com")](#) Comes with Admob banners and interstitial ready. Try the game here -> http://bitly.com/1G5J4wQ
+
+This game is an Obstacle avoidance game made in Java using Eclipse IDE. The aim of the player is to avoid the platforms and the hammers controlling the copetr just with the finger and get the highscore possible. You can customize all the things in this game, sounds, graphics, speed of the copter, add more hammers... 
+
+[![](http://i.imgur.com/ODQy6ba.png "Hosted by imgur.com")](#) Comes with Admob banners and interstitial ready. Try the game here -> http://bitly.com/1G5J4wQ
 
 ##### Tutorial
 
